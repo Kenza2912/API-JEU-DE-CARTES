@@ -1,0 +1,9 @@
+La programmation asynchrone est utile lorsqu’une action longue ou de durée incertaine 
+doit être effectuée, afin de ne pas mettre en pause le programme entier en attendant la 
+réponse ou la fin du traitement. 
+
+
+
+
+
+
